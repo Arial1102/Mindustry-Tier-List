@@ -1,0 +1,11 @@
+name: tier-language
+displayName: "Tier List Addition"
+author: tandzs1tg
+description:
+  '''
+  a mod that add tier
+
+  '''
+version: 0.1
+minGameVersion: 157.4
+hidden: true
