@@ -8,6 +8,4 @@ description:
   English only
 
   '''
-version: 0.2
 minGameVersion: 159
-hidden: true
