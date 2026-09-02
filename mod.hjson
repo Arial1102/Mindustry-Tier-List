@@ -2,6 +2,7 @@ name: tier-language
 repo: Arial1102/Mindustry-Tier-List
 displayName: "Tier List Addition"
 author: tandzs1tg
+hidden: true
 description:
   '''
   a mod that add tier list as localization
